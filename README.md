@@ -20,8 +20,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me (Telegram) [https://t.me/mikroffarad_perasperaadastra](https://t.me/mikroffarad_perasperaadastra)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mikroffarad/workbench/tree/main](https://github.com/mikroffarad/workbench/tree/main)
 
 - 📫 How to reach me **viktorzarickiy@gmail.com**
