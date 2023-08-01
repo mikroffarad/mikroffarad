@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Victor Zaritsky (as known as "mikroffarad")</h1>
+<h1 align="center">Greetings! 🤝 You must be new here, right? <br> So, come in, don't be shy 😏</h1>
 
 <p align="center">
  <a href="https://t.me/mikroffarad_perasperaadastra" target="_blank">
@@ -13,6 +13,12 @@
     <img src="https://img.shields.io/twitter/follow/mikroffarad?logo=twitter&style=for-the-badge" alt="mikroffarad" />
   </a>
 </p>
+
+| Key       | Value           |   |   |   |
+|-----------|-----------------|---|---|---|
+| Full name | Victor Zaritsky |   |   |   |
+| Nickname  | mikroffarad     |   |   |   |
+| Birthdate | October 5, 2004 |   |   |   |
 
 <h3 align="center">I'm 18 years old Jesus Christ's follower, passionate computer scientist and musical enthusiast based on Ukraine 🇺🇦. <br> *I use Arch GNU/Linux, by the way 😏*</h3>
 
