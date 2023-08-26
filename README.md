@@ -1,7 +1,5 @@
 <h1 align="center">Victor Zaritsky (mikroffarad)</h1>
-<p align="center"><i>Per Aspera Ad Astra</i></p>
-
-***
+<p align="center">Per Aspera Ad Astra</p>
 
 **General Info**
 | **Key**              | **Value**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
