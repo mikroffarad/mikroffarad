@@ -76,7 +76,7 @@
   - GNU/Linux Distros: ![Arch](https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   - Desktop Environments: ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1d99f3?style=for-the-badge&logo=kde&logoColor=white) ![GNOME](https://img.shields.io/badge/GNOME-white?style=for-the-badge&logo=gnome&logoColor=black) ![Xfce Desktop Environment](https://img.shields.io/badge/Xfce-0849ad?style=for-the-badge&logo=Xfce&logoColor=white)
 - ![Windows](https://img.shields.io/badge/Microsoft%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- ![Android](https://img.shields.io/badge/Android-90e59a?style=for-the-badge&logo=android&logoColor=white)
+- ![Android](https://img.shields.io/badge/Android-90e59a?style=for-the-badge&logo=android&logoColor=black)
 
 
 ### Other Technologies
