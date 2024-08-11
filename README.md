@@ -8,6 +8,13 @@
 - Currently focused on Frontend Development, with a strong background in Unix-like systems.
 - Continuously expanding skills in the dynamic world of software development.
 
+## 🤝📫 Connect with me
+Feel free to reach out to me for collaborations or just a chat about technology, music or anything else.
+
+- Email: [viktorzarickiy@gmail.com](mailto:viktorzarickiy@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikroffarad_perasperaadastra)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mikroffarad_perasperaadastra)
+
 ## 🧑‍💻 Quick Facts
 
 - 👱‍♂️ Full Name (nickname): Victor Zaritsky (mikroffarad)
@@ -116,16 +123,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikroffarad&layout=compact&theme=dark)
 
 ![mikroffarad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikroffarad&layout=compact&theme=dark)
-
-
-
-
-## 🌐📫 Connect with me
-Feel free to reach out to me for collaborations or just a chat about technology, music or anything else.
-
-- Email: [viktorzarickiy@gmail.com](mailto:viktorzarickiy@gmail.com)
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikroffarad_perasperaadastra)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mikroffarad_perasperaadastra)
 
 ---
 
