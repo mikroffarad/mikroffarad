@@ -118,9 +118,9 @@ Feel free to reach out to me for collaborations or just a chat about technology,
 
 ## 📊 Analytics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikroffarad&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikroffarad&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikroffarad&theme=dark)
 
 ![mikroffarad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikroffarad&layout=compact&theme=dark)
 
