@@ -116,7 +116,7 @@ Feel free to reach out to me for collaborations or just a chat about technology,
 - Currently working on: ...
 - Work in progress...
 
-## 📊 Stats
+## 📊 Analytics
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikroffarad&theme=dark)
 
