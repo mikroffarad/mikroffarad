@@ -27,21 +27,21 @@ Feel free to reach out to me for collaborations or just a chat about technology,
 - 🗂️ Main Repository: [workbench](https://github.com/mikroffarad/workbench)
 
 ## 🧠 Domain Knowledge / Hobbies
-  - 💻 Computer Science
+  - 💻 **Computer Science**
     - Frontend Development
     - Operating Systems
     - PC Architecture, PC Building
       - IBM PC and x86_64-compatible systems
     - Mobile Devices
       - Custom Android ROMs
-  - 🎼 Music Listening/Production
+  - 🎼 **Music Listening/Production**
     - Key genres: Post-rock, math-rock, modern classical (neoclassical), ambient
     - Keen on:
       - Unusual rhythms and time signatures (5/4, 7/8, 13/8, 27/8, 6⅓/8, 3.875/4 etc.)
       - Key exploration in musical compositions
       - Non-standard chord progressions
       - Various musical modes and scales
-  - ⚡ Electrical Engineering
+  - ⚡ **Electrical Engineering**
     - Industrial Equipment: asynchronous motors, transformers, switchboards, power supply, protective relay, machine tools, сircuit diagrams
     - Microelectronics: Raspberry Pi, Onion Omega2, Arduino, ATMEGA microcontrollers
 
@@ -100,10 +100,10 @@ Feel free to reach out to me for collaborations or just a chat about technology,
   ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 🎓 Education
-- 2020-2024: Separate structural department "Zhovty Vody Industrial Specialized College of Oles Honchar Dnipro National University"
+- **2020-2024: Separate structural department "Zhovty Vody Industrial Specialized College of Oles Honchar Dnipro National University"**
   - Specialty: 141 "Power Engineering, Electrical Engineering and Electromechanics"
   - Degree: Professional Junior Bachelor (with honors)
-- 2024-2028 (expected): Central Ukrainian National Technical University
+- **2024-2028 (expected): Central Ukrainian National Technical University**
   - Specialty: 125 "Cybersecurity and Information Protection"
   - Degree: Bachelor (in progress)
 
@@ -113,8 +113,7 @@ Feel free to reach out to me for collaborations or just a chat about technology,
 - 🌐 [Frontend fundamental course](https://drive.google.com/file/d/10cVezmXW9NzVTqLHxKYXX_azpZCgJDLX/view?usp=sharing) - Ciklum (2024)
 
 ## 🌟 Featured Projects
-- Currently working on: ...
-- Work in progress...
+- Check out ``README.md`` in [workbench](https://github.com/mikroffarad/workbench) repository
 
 ## 📊 Analytics
 
