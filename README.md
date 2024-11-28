@@ -35,7 +35,7 @@ Feel free to reach out to me for collaborations or just a chat about technology,
     - Mobile Devices
       - Custom Android ROMs
   - 🎼 **Music Listening/Production**
-    - Key genres: Post-rock, math-rock, modern classical (neoclassical), ambient
+    - Key genres: Post-rock, psychedelic, ambient, Midwest Emo, math-rock, modern classical (neoclassical)
     - Keen on:
       - Unusual rhythms and time signatures (5/4, 7/8, 13/8, 27/8, 6⅓/8, 3.875/4 etc.)
       - Key exploration in musical compositions
