@@ -1,4 +1,4 @@
-# Victor Zaritsky (mikroffarad)
+# Viktor Zaritskyi (mikroffarad)
 
 > *"Per Aspera Ad Astra"* - Through hardships to the stars. This Latin phrase embodies the belief that great achievements come through perseverance and hard work. In the ever-evolving world of technology, it serves as a reminder to embrace challenges as opportunities for growth and innovation.
 
@@ -14,6 +14,7 @@ Feel free to reach out to me for collaborations or just a chat about technology,
 - Email: [viktorzarickiy@gmail.com](mailto:viktorzarickiy@gmail.com)
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikroffarad_perasperaadastra)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mikroffarad_perasperaadastra)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mikroffarad)
 
 ## 🧑‍💻 Quick Facts
 
